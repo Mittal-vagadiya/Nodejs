@@ -14,6 +14,7 @@ This project is a Node.js API with MongoDB for sending OTPs via Twilio's SMS ser
 
 Create a `.env` file in the root directory and provide the following variables:
 
+```bash
 CONNECTION_STRING = your_database_connection_string
 PORT = your_port
 JWT_SECRET = your_jwt_secret
